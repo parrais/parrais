@@ -1,29 +1,27 @@
-## Hi there 👋
+# Matt Lewis
 
-<!--
-**parrais/parrais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am an aspiring full-stack software developer, currently aiming to change career into software development, facilitated by a comprehensive JavaScript bootcamp with Northcoders.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Coding Skills
 
-### My Coding Skills
+[![My Skills](https://skillicons.dev/icons?i=js,jest,postgres,express,html,css,react&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,postgres,html,css&theme=light)](https://skillicons.dev)
+## My Previous Experience
 
-### My GitHub Metrics
+- 🎓 Graduate in Mathematical Sciences from [The Queen's College](https://www.queens.ox.ac.uk/), [Oxford University](https://www.ox.ac.uk/)
+- 🏢 Over twenty years of IT project management in industry (including financial and manufacturing sectors)
+
+## My Other Activites
+
+- 👟 Running, including [parkrun](https://www.parkrun.org.uk/) every Saturday
+- 🎮 Keen gamer, including PC games (modern and retro) and German-style board games
+- 🖥️ Tinkering in tech, including PC building
+- 🐏 Long-suffering supporter of Derby County FC
+- 👨‍👩‍👧‍👧 Father of two teenage kids
+- 🐈 Owner (or owned by) two cats
+
+## My GitHub Metrics
 
 ![Metrics](./github-metrics.svg)
-
-### Previous Experience
-
-- 🎓 Graduate in Mathematical Sciences from [The Queen's College](https://www.queens.ox.ac.uk/), [Oxford University](https://www.ox.ac.uk/).
-- 🏢 Over twenty years of IT project management in industry (including financial and manufacturing sectors).
