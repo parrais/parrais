@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an aspiring full-stack software developer, currently aiming to change career into software development, facilitated by a comprehensive JavaScript bootcamp with Northcoders.
+- 🧑‍💻 I am an aspiring full-stack software developer, currently building my skills on a comprehensive JavaScript bootcamp with [Northcoders](https://www.northcoders.com/).
 
 ## My Coding Skills
 
@@ -15,12 +15,12 @@ I am an aspiring full-stack software developer, currently aiming to change caree
 
 ## My Other Activites
 
-- 👟 Running, including [parkrun](https://www.parkrun.org.uk/) every Saturday
+- 👟 Running, including [parkrun](https://www.parkrun.org.uk/) every Saturday morning
 - 🎮 Keen gamer, including PC games (modern and retro) and German-style board games
 - 🖥️ Tinkering in tech, including PC building
-- 🐏 Long-suffering supporter of Derby County FC
 - 👨‍👩‍👧‍👧 Father of two teenage kids
 - 🐈 Owner (or owned by) two cats
+- 🐏 Long-suffering supporter of Derby County FC
 
 ## My GitHub Metrics
 
