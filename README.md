@@ -1,7 +1,7 @@
 ## About Me
 
 - 🏫 I am an aspiring full-stack software developer, currently building my skills on a comprehensive JavaScript bootcamp with [Northcoders](https://www.northcoders.com/).
-- 🧑‍💻 From July 2025 I will be looking for a junior sofotware engineer role!
+- 🧑‍💻 From July 2025 I will be looking for a junior software engineer role!
 
 ## My Coding Skills
 
