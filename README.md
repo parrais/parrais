@@ -4,7 +4,7 @@
 
 ## My Coding Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,jest,postgres,express,html,css,react&theme=light)](https://skillicons.dev)
+[![JavaScript, Jest, PostgreSQL, Express, HTML, CSS, React, Bash, Git, GitHub, VS Code](https://skillicons.dev/icons?i=js,jest,postgres,express,html,css,react,bash,git,github,vscode&theme=light)](https://skillicons.dev)
 
 ## My Previous Experience
 
