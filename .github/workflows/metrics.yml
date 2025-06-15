@@ -17,6 +17,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           base: header
+          base_indepth: true
+          base_hireable: true
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes

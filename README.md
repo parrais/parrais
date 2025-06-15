@@ -1,5 +1,3 @@
-# Matt Lewis
-
 ## About Me
 
 - 🧑‍💻 I am an aspiring full-stack software developer, currently building my skills on a comprehensive JavaScript bootcamp with [Northcoders](https://www.northcoders.com/).
