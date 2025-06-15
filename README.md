@@ -12,12 +12,12 @@
 - 🎓 Graduate in Mathematical Sciences from [The Queen's College](https://www.queens.ox.ac.uk/), [Oxford University](https://www.ox.ac.uk/)
 - 🏢 Over twenty years of IT project management in industry (including financial and manufacturing sectors)
 
-## My Other Activites
+## My Other Activities
 
-- 👟 Running, including [parkrun](https://www.parkrun.org.uk/) every Saturday morning
+- 👟 Running to keep fit; I also aim to run [parkrun](https://www.parkrun.org.uk/) every Saturday morning
 - 🎮 Keen gamer, including PC games (modern and retro) and German-style board games
-- 🖥️ Tinkering in tech, including PC building
-- 👨‍👩‍👧‍👧 Father of two teenagers
+- 🖥️ Tinkering in tech e.g. building PCs for family
+- 👨‍👩‍👧‍👧 Father of two teenage kids
 - 🐈 Owner (or owned by) two cats
 - 🐏 Long-suffering supporter of Derby County FC
 
