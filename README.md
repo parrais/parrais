@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My Coding Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,postgres,html,css)](https://skillicons.dev)
+
+### My GitHub Metrics
+
+![Metrics](./github-metrics.svg)
+
+### Previous Experience
+
+- 🎓 Graduate in Mathematical Sciences from [The Queen's College](https://www.queens.ox.ac.uk/), [Oxford University](https://www.ox.ac.uk/).
+- 🏢 Over twenty years of IT project management in industry (including financial and manufacturing sectors).
