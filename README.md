@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### My Coding Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,postgres,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,postgres,html,css&theme=light)](https://skillicons.dev)
 
 ### My GitHub Metrics
 
