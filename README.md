@@ -17,7 +17,7 @@
 - 👟 Running to keep fit; I also aim to run [parkrun](https://www.parkrun.org.uk/) every Saturday morning
 - 🎮 Keen gamer, including PC games (modern and retro) and German-style board games
 - 🖥️ Tinkering in tech e.g. building PCs for family
-- 👨‍👩‍👧‍👧 Father of two teenage kids
+- 👨‍👩‍👧‍👧 Father of two teenagers
 - 🐈 Owner (or owned by) two cats
 - 🐏 Long-suffering supporter of Derby County FC
 
