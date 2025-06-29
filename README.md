@@ -9,7 +9,7 @@
 
 ## My Previous Experience
 
-- 🎓 Graduate in Mathematical Sciences from [The Queen's College](https://www.queens.ox.ac.uk/), [Oxford University](https://www.ox.ac.uk/)
+- 🎓 Graduate in Mathematical Sciences from [The Queen's College](https://www.queens.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/)
 - 🏢 Over twenty years of IT project management in industry (including financial and manufacturing sectors)
 
 ## My Other Activities
